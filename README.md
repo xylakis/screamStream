@@ -1,4 +1,4 @@
-# screamStream
+# OulastAFF
 
 The repository on our work **"The Scream Stream: Multimodal Affect Analysis of Horror Game Spaces"** presented at the **Dungeons, Neurons, and Dialogues: Social Interaction Dynamics in Contextual Games (DnD: SIDC)** Workshop.  
 
