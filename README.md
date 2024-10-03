@@ -12,12 +12,13 @@ game genre from a third-person perspective. Specifically, we analyse facial expr
 
 The repository contains the following:
 
-### Scripts
+## Scripts
 The `Python_scripts` folder contains the main Python scripts for running the Random Forest classifier (RF) built for the study. It includes two files:
 - `LeaveOneOut_RandomForest.py` contains the Random Forest architecture for Hyperparameter tuning and Train-test on the processed data files.
 - `RF_defs.py` contains the necessary functions for tuning the RF classifier.
 
-#### Random Forest Data Files
+## Data
+### Random Forest Data Files
 The `Data/Random_Forest` folder contains all the necessary data to run the `LeaveOneOut_RandomForest.py` script. It includes 10 data files for RF 
 train-test on 5 affect dimensions:
 - Arousal_VOICE
@@ -31,7 +32,7 @@ Each affect dimension uses 2 affect signal measures (Mean & Amplitude). Each dat
 - Input features (14 columns for each studied game or level input)
 - Streamer ID column
 
-#### Raw Data
+### Raw Data
 The `Data/Raw` folder contains:
 1. All the corresponding YouTube video URLs that were used as part of the present dataset.
 2. A detailed data file containing the pre-processed affect and feature values with 1Hz resolution (the set sampling resolution used throughout the study).
