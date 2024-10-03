@@ -17,8 +17,6 @@ The `Python_scripts` folder contains the main Python scripts for running the Ran
 - `LeaveOneOut_RandomForest.py` contains the Random Forest architecture for Hyperparameter tuning and Train-test on the processed data files.
 - `RF_defs.py` contains the necessary functions for tuning the RF classifier.
 
-### Data
-
 #### Random Forest Data Files
 The `Data/Random_Forest` folder contains all the necessary data to run the `LeaveOneOut_RandomForest.py` script. It includes 10 data files for RF 
 train-test on 5 affect dimensions:
@@ -38,7 +36,3 @@ The `Data/Raw` folder contains:
 1. All the corresponding YouTube video URLs that were used as part of the present dataset.
 2. A detailed data file containing the pre-processed affect and feature values with 1Hz resolution (the set sampling resolution used throughout the study).
 3. The coding for each feature category on the 41 selected rooms of the Asylum level of Outlast.
-
-### Outlast Maps
-The `Outlast_maps` folder includes the 3 floor levels that are part of the Asylum map:
-- `Assylum_1F.jpg` and `Assylum_2F.jpg` acquired from the Steam community website: [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=1543156495).
