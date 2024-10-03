@@ -1,6 +1,6 @@
 # screamStream
 
-The repository on our work "The Scream Stream: Multimodal Affect Analysis of Horror Game Spaces" presented the Dungeons, Neurons, and Dialogues: Social Interaction Dynamics in Contextual Games (DnD: SIDC) Workshop as part of 12th International Conference on Affective Computing & Intelligent Interaction 2024. 
+The repository on our work "The Scream Stream: Multimodal Affect Analysis of Horror Game Spaces" presented the **Dungeons, Neurons, and Dialogues: Social Interaction Dynamics in Contextual Games (DnD: SIDC)** Workshop as part of 12th International Conference on Affective Computing & Intelligent Interaction 2024. 
 
 Contributors: Emmanouil Xylakis, Antonios Liapis, Georgios N Yannakakis 
 
