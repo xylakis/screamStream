@@ -10,6 +10,10 @@ game genre from a third-person perspective. Specifically, we analyse facial expr
 
 **Published:** in Proceedings of the International Conference on Affective Computing and Intelligent Interaction Workshops and Demos, 2024. 
 
+## Processing Framework 
+
+![Processing Framework](Images/Affect_extraction_framework.png)
+
 The repository contains the following:
 
 ## Scripts
